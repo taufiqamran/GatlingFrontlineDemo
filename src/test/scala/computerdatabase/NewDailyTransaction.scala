@@ -57,10 +57,10 @@ class NewDailyTransaction extends Simulation{
     //val loginHr = feed(loginHrFeeder).exec(Login.loginProcess).exec(Login.loadDashboard)
 
   //No of Users
-  val EMPNo = 606
-  val SUPNo = 606
-  val EMPNoClaim = 606
-  val HRNo = 606
+  val EMPNo = 5
+  val SUPNo = 5
+  val EMPNoClaim = 5
+  val HRNo = 5
 
   //Duration
   val scriptDuration = 10
